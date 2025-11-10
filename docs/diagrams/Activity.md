@@ -8,12 +8,12 @@
 
 ### 1 Авторизация
 
-![Авторизация](./img/activity-log-in.png)
+![Авторизация](./imgs/activity-log-in.png)
 
 ### 2 Регистрация
 
-![Регистрация](./img/activity-sign-up.png)
+![Регистрация](./imgs/activity-sign-up.png)
   
 ### 3 Добавление игры в библиотеку
 
-![Добавление игры в библиотеку](./img/activity-add-game.png)
+![Добавление игры в библиотеку](./imgs/activity-add-game.png)

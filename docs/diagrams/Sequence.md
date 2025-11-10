@@ -8,12 +8,12 @@
 
 ### 1 Авторизация
 
-![Авторизация](./imgs/sequency-log-in.png)
+![Авторизация](./imgs/sequence-log-in.png)
 
 ### 2 Регистрация
 
-![Регистрация](./imgs/sequency-sign-up.png)
+![Регистрация](./imgs/sequence-sign-up.png)
   
 ### 3 Добавление игры в библиотеку
 
-![Добавление игры в библиотеку](./imgs/sequency-add-game.png)
+![Добавление игры в библиотеку](./imgs/sequence-add-game.png)
